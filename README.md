@@ -7,6 +7,7 @@
 **👤 Author:** Bao Luong  
 **📧 Email:** baodevops21@gmail.com  
 **💼 LinkedIn:** [bluong21](https://www.linkedin.com/in/bluong21/)
+
 ---
 
 ## Access S3 from a VPC
